@@ -1,5 +1,6 @@
 # TWUMP
 Twitter sentiment analysis with Convolutional Neural Networks in Keras
+Co-authors: Sami Al-Ashabi, Tiong Han Lie, Vivian Yeung
 Project for a deep learning course by Turing Students (MLxDL course) @Erasmus University
 
 datasets: 
